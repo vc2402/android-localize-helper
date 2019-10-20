@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"vivasoft.lt/localizer/engine"
+	"github.com/vc2402/localizer/engine"
 )
 
 func main() {
