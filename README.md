@@ -13,6 +13,6 @@ This project was created when nothing was found for export string resources from
 
 ## Getting Started
 
-go get github.com/vc2402/android-localize-helper
+go get github.com/vc2402/localizer
 
-go build github.com/vc2402/android-localize-helper
+go build github.com/vc2402/localizer
